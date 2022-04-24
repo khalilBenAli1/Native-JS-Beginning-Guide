@@ -6,9 +6,9 @@ var fistnameText = document.getElementById('FN');
 var lastnameText = document.getElementById('LN');
 var birthdayText = document.getElementById('B');
 var ageText =document.getElementById('age');
-var FNV ;
-	var LNV;
-	var BV;
+var FNV ="";
+	var LNV="";
+	var BV="";
 
 function edit(){
 
